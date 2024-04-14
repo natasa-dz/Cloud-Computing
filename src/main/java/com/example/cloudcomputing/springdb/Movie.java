@@ -1,11 +1,14 @@
 package com.example.cloudcomputing.springdb;
 
-import jakarta.persistence.*;
 import lombok.Data;
+
+import javax.persistence.*;
 
 
 @Data
 @Entity
+@Table(name = "sv_14_2021") // Set the table name dynamically
+
 public class Movie {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
