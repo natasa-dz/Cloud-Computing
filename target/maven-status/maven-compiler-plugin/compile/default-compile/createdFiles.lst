@@ -1,0 +1,6 @@
+com\example\cloudcomputing\springdb\IMovieService.class
+com\example\cloudcomputing\springdb\SpringDbApplication.class
+com\example\cloudcomputing\springdb\MovieService.class
+com\example\cloudcomputing\springdb\Movie.class
+com\example\cloudcomputing\springdb\MovieRepository.class
+com\example\cloudcomputing\springdb\MovieController.class
